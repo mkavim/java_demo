@@ -23,6 +23,7 @@ class User implements Serializable {
     }
 }
 
+
 /**
  * transient 用法
  */

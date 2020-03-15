@@ -10,6 +10,7 @@
 3. maven, jar包，运行等    
 
 **Java 并发专题专题**  
+
  
 **Java 设计模式专题**   
 
@@ -22,4 +23,5 @@
 
 ## 学习参考资料   
 1. [廖雪峰-Java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)   
-2. https://howtodoinjava.com/java-concurrency-tutorial/
+2. https://howtodoinjava.com/java-concurrency-tutorial/  
+3. 《Java设计模式》
